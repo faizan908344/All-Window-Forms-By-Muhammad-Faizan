@@ -1,0 +1,17 @@
+C:\Users\CC\Desktop\Miss Sana Irshad Windows Application\FirstWindowApplication\FirstWindowApplication\bin\Debug\net6.0-windows\FirstWindowApplication.exe
+C:\Users\CC\Desktop\Miss Sana Irshad Windows Application\FirstWindowApplication\FirstWindowApplication\bin\Debug\net6.0-windows\FirstWindowApplication.deps.json
+C:\Users\CC\Desktop\Miss Sana Irshad Windows Application\FirstWindowApplication\FirstWindowApplication\bin\Debug\net6.0-windows\FirstWindowApplication.runtimeconfig.json
+C:\Users\CC\Desktop\Miss Sana Irshad Windows Application\FirstWindowApplication\FirstWindowApplication\bin\Debug\net6.0-windows\FirstWindowApplication.dll
+C:\Users\CC\Desktop\Miss Sana Irshad Windows Application\FirstWindowApplication\FirstWindowApplication\bin\Debug\net6.0-windows\FirstWindowApplication.pdb
+C:\Users\CC\Desktop\Miss Sana Irshad Windows Application\FirstWindowApplication\FirstWindowApplication\obj\Debug\net6.0-windows\FirstWindowApplication.csproj.AssemblyReference.cache
+C:\Users\CC\Desktop\Miss Sana Irshad Windows Application\FirstWindowApplication\FirstWindowApplication\obj\Debug\net6.0-windows\FirstWindowApplication.Form1.resources
+C:\Users\CC\Desktop\Miss Sana Irshad Windows Application\FirstWindowApplication\FirstWindowApplication\obj\Debug\net6.0-windows\FirstWindowApplication.csproj.GenerateResource.cache
+C:\Users\CC\Desktop\Miss Sana Irshad Windows Application\FirstWindowApplication\FirstWindowApplication\obj\Debug\net6.0-windows\FirstWindowApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CC\Desktop\Miss Sana Irshad Windows Application\FirstWindowApplication\FirstWindowApplication\obj\Debug\net6.0-windows\FirstWindowApplication.AssemblyInfoInputs.cache
+C:\Users\CC\Desktop\Miss Sana Irshad Windows Application\FirstWindowApplication\FirstWindowApplication\obj\Debug\net6.0-windows\FirstWindowApplication.AssemblyInfo.cs
+C:\Users\CC\Desktop\Miss Sana Irshad Windows Application\FirstWindowApplication\FirstWindowApplication\obj\Debug\net6.0-windows\FirstWindowApplication.csproj.CoreCompileInputs.cache
+C:\Users\CC\Desktop\Miss Sana Irshad Windows Application\FirstWindowApplication\FirstWindowApplication\obj\Debug\net6.0-windows\FirstWindowApplication.dll
+C:\Users\CC\Desktop\Miss Sana Irshad Windows Application\FirstWindowApplication\FirstWindowApplication\obj\Debug\net6.0-windows\refint\FirstWindowApplication.dll
+C:\Users\CC\Desktop\Miss Sana Irshad Windows Application\FirstWindowApplication\FirstWindowApplication\obj\Debug\net6.0-windows\FirstWindowApplication.pdb
+C:\Users\CC\Desktop\Miss Sana Irshad Windows Application\FirstWindowApplication\FirstWindowApplication\obj\Debug\net6.0-windows\FirstWindowApplication.genruntimeconfig.cache
+C:\Users\CC\Desktop\Miss Sana Irshad Windows Application\FirstWindowApplication\FirstWindowApplication\obj\Debug\net6.0-windows\ref\FirstWindowApplication.dll

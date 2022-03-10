@@ -1,0 +1,17 @@
+C:\Users\CC\Desktop\Miss Sana Irshad Windows Application\Addition Application\Addition Application\bin\Debug\net6.0-windows\Addition Application.exe
+C:\Users\CC\Desktop\Miss Sana Irshad Windows Application\Addition Application\Addition Application\bin\Debug\net6.0-windows\Addition Application.deps.json
+C:\Users\CC\Desktop\Miss Sana Irshad Windows Application\Addition Application\Addition Application\bin\Debug\net6.0-windows\Addition Application.runtimeconfig.json
+C:\Users\CC\Desktop\Miss Sana Irshad Windows Application\Addition Application\Addition Application\bin\Debug\net6.0-windows\Addition Application.dll
+C:\Users\CC\Desktop\Miss Sana Irshad Windows Application\Addition Application\Addition Application\bin\Debug\net6.0-windows\Addition Application.pdb
+C:\Users\CC\Desktop\Miss Sana Irshad Windows Application\Addition Application\Addition Application\obj\Debug\net6.0-windows\Addition Application.csproj.AssemblyReference.cache
+C:\Users\CC\Desktop\Miss Sana Irshad Windows Application\Addition Application\Addition Application\obj\Debug\net6.0-windows\Addition_Application.Form1.resources
+C:\Users\CC\Desktop\Miss Sana Irshad Windows Application\Addition Application\Addition Application\obj\Debug\net6.0-windows\Addition Application.csproj.GenerateResource.cache
+C:\Users\CC\Desktop\Miss Sana Irshad Windows Application\Addition Application\Addition Application\obj\Debug\net6.0-windows\Addition Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CC\Desktop\Miss Sana Irshad Windows Application\Addition Application\Addition Application\obj\Debug\net6.0-windows\Addition Application.AssemblyInfoInputs.cache
+C:\Users\CC\Desktop\Miss Sana Irshad Windows Application\Addition Application\Addition Application\obj\Debug\net6.0-windows\Addition Application.AssemblyInfo.cs
+C:\Users\CC\Desktop\Miss Sana Irshad Windows Application\Addition Application\Addition Application\obj\Debug\net6.0-windows\Addition Application.csproj.CoreCompileInputs.cache
+C:\Users\CC\Desktop\Miss Sana Irshad Windows Application\Addition Application\Addition Application\obj\Debug\net6.0-windows\Addition Application.dll
+C:\Users\CC\Desktop\Miss Sana Irshad Windows Application\Addition Application\Addition Application\obj\Debug\net6.0-windows\refint\Addition Application.dll
+C:\Users\CC\Desktop\Miss Sana Irshad Windows Application\Addition Application\Addition Application\obj\Debug\net6.0-windows\Addition Application.pdb
+C:\Users\CC\Desktop\Miss Sana Irshad Windows Application\Addition Application\Addition Application\obj\Debug\net6.0-windows\Addition Application.genruntimeconfig.cache
+C:\Users\CC\Desktop\Miss Sana Irshad Windows Application\Addition Application\Addition Application\obj\Debug\net6.0-windows\ref\Addition Application.dll
